@@ -1,0 +1,3 @@
+,Semilla,Algoritmo,Kilometros,Evaluaciones,Iteraciones,Limite Vecinos,Solucion
+0,0,Greedy,574.5513854177129,1,0,0,[ 7  9 18  8 11 18 11 12  8 13 13 24 11 18 20 19]
+0,131885036,Simulated_annealing,691.9568621774793,326,80,20,[13  7 13  6  8 13  8  9  6 10 10 18  8 13 15 63]
