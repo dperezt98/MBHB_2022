@@ -1,3 +1,0 @@
-- Se ha modificado el método de cruce en el algoritmo genético básico implementando una lista circular
-- Se ha actualizado el método de cruce blx-alpha, ahora solo se cruzan la mitad de los genes que son diferentes
-- Se han vuelto a realizar las pruebas en los distintos algoritmos
